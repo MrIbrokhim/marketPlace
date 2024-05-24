@@ -1,0 +1,9 @@
+ 
+[
+    {"id":1,"type":"Fruit","name":"Apple","price":7},
+    {"id":2,"type":"Fruit", "name":"Grape","price":8},
+    {"id":3,"type":"Vegetable", "name":"Carrot","price":12},
+    {"id":4,"type":"Vegetable", "name":"Tomato","price": 3},
+    {"id":5,"type":"Fruit", "name":"Orange","price": 6},
+    {"id":6,"type":"Fruit", "name":"Kiwi","price": 10}
+]
